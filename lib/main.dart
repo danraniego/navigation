@@ -4,7 +4,7 @@ import 'package:navigation/home_page.dart';
 void main() {
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
-    title: 'Mark Navigation',
+    title: 'Dan Navigation',
     theme: ThemeData(
       primarySwatch: Colors.blue
     ),
